@@ -61,8 +61,6 @@
 <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=bitter&size=12&pause=1000&color=F7F7F7&random=false&width=435&lines=somewhat..." alt="somewhat" /></a>
 </p>
 
-<a href="https://www.linkedin.com/in/ryan-o-glass/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/celestialchippy"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dev.to/celestialchips"><img width="32px" alt="Dev.to" title="celestialchips Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
